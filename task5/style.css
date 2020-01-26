@@ -1,0 +1,46 @@
+* {
+    background: #505050;
+    /*border: 1px solid red;*/
+}
+
+#month {
+    float: left;
+    margin: 30px;
+    margin-left: 400px;
+}
+
+#year {
+    float: right;
+    margin: 30px;
+    margin-right: 400px;
+}
+
+input {
+    background: white;
+}
+
+#end {
+    clear: both;
+
+}
+
+#generate {
+    width: 300px;
+    background: #707070;
+    margin-left: 40%;
+    margin-right: auto;
+}
+
+span {
+    margin: 40px;
+}
+
+table {
+    margin: 50px;
+    /*border-collapse: collapse;*/
+}
+
+td {
+    /*border: 1px solid black;*/
+
+}
